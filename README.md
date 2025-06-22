@@ -1,2 +1,2 @@
 # Waste-classification-using-Deep-Learning
-This Deep learning model uses Pytorch to Extract, Transform and load the data In addition It uses one of its libraries to clean and normalize the data 
+This project aims to classify images of waste into different categories (e.g. organic, recyclable) using transfer learning with a pre-trained CNN model (ResNet18) implemented in PyTorch.
