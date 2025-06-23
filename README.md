@@ -18,7 +18,7 @@ This project aims to classify images of waste into different categories (e.g. or
 ## 🗃️ Dataset
 
 - You can mount your Google Drive and load your dataset from:
-[/content/drive/MyDrive/dataset-resized](https://drive.google.com/drive/folders/1Ay0HW9wUvS6MiT0IfTgXG1w8WM41WEMF?usp=sharing)
+  (https://drive.google.com/drive/folders/1Ay0HW9wUvS6MiT0IfTgXG1w8WM41WEMF?usp=sharing)
 - ## 🖼️ Sample Output
 
 ![Training Curve] 
